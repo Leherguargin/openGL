@@ -1,0 +1,47 @@
+*.d
+
+# object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# linker output
+*.ilk
+*.map
+*.exp
+
+# precompiled headers
+*.gch
+*.pch
+
+# liblaries
+*.lib
+*.a
+*.la
+*.lo
+
+# shared objects
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# kernel module compile results
+*.mod*
+*.cmd
+*.tmp_versions/
